@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(129, 145, 159);
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    list-style-position: outside;
+}
